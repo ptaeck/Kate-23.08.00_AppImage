@@ -4,6 +4,7 @@ I was missing older releases from the devs here: (only version 24 available)
 
 https://cdn.kde.org/ci-builds/utilities/kate/
 
+
 Compiled from source:
 
 https://www.linuxfromscratch.org/~ken/fontconfig-systemd/postlfs/kate5.html
